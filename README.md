@@ -4,6 +4,12 @@ Welcome! I'm a software engineer with a strong focus on building smart, efficien
 
 ---
 
+## 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/bartoszchwilkowski)
+
+---
+
 ## 🛠️ Skills
 
 - **Recommender Systems** (Python, MLflow)
