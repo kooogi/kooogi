@@ -17,7 +17,7 @@ Welcome! I'm a software engineer with a strong focus on building smart, efficien
 - **Data Analysis & Visualization** (Python, SQL)
 - **Frontend Development** (Vue.js, TypeScript, JavaScript, CSS)
 - **Automation & Scripting** (PowerShell, Bash)
-- **Dev Tools:** PostgreSQL,, Git, Makefile, CI/CD
+- **Dev Tools:** PostgreSQL, Git, Makefile, CI/CD
 
 ---
 
