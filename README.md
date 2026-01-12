@@ -2,7 +2,7 @@
   <h1>Hi, I’m Bartek (Bartosz Chwiłkowski)</h1>
   <p>
     Software engineer focused on <b>production-grade data + web</b>:
-    recommender systems, data extraction, and modern full-stack delivery.
+    recommender systems, data extraction, and modern full-stack delivery (AI-assisted / prompt engineering).
   </p>
 
   <p>
@@ -50,21 +50,20 @@
 
 ## Selected work
 
-| Project                | What it shows                               | Tech                          | Links                                                                     |
-| ---------------------- | ------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------- |
-| **Time4Run**           | Full-stack product, security & UX           | Vue, TS, Tailwind, PHP, MySQL | [Live](https://time4run-dev.com.pl/) · [Domain](https://time4run.com.pl/) |
-| **qpera-thesis**       | Recsys research (explainability/robustness) | Python, MLflow, Jupyter       | [Repo](https://github.com/PUT-RecSys-Research/qpera-thesis)               |
-| **WebScraper-W2A**     | Dockerized scraping & data collection       | Python, Flask, Scrapy         | [Repo](https://github.com/Web2AI/WebScraper-W2A)                          |
-| **simple-booking-app** | CRUD + business logic                       | C#                            | [Repo](https://github.com/kooogi/simple-booking-app)                      |
+| Project            | What it shows                               | Tech                          | Links                                                                     |
+| ------------------ | ------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------- |
+| **Time4Run**       | Full-stack product, security & UX           | Vue, TS, Tailwind, PHP, MySQL | [Live](https://time4run-dev.com.pl/) · [Domain](https://time4run.com.pl/) |
+| **qpera-thesis**   | Recsys research (explainability/robustness) | Python, MLflow, Jupyter       | [Repo](https://github.com/PUT-RecSys-Research/qpera-thesis)               |
+| **WebScraper-W2A** | Dockerized scraping & data collection       | Python, Flask, Scrapy         | [Repo](https://github.com/Web2AI/WebScraper-W2A)                          |
 
 <details>
   <summary><b>More repos</b></summary>
+  
+**Archived / university**
 
-- **[stolmeb](https://github.com/kooogi/stolmeb)** — HTML project (website / UI)
-- **[Simple-Monster-Slayer-Game](https://github.com/kooogi/Simple-Monster-Slayer-Game)** — frontend project (JavaScript) focused on UI/state handling
-- **[VWP-Projects](https://github.com/kooogi/VWP-Projects)** (archived) — set of projects/notebooks (Jupyter)
-- **[PUT-MasterLvl-Repos-Archive](https://github.com/kooogi/PUT-MasterLvl-Repos-Archive)** (archived) — university repo archive (Ruby)
-- **[PUT-BachelorLvl-Digital-Signature](https://github.com/kooogi/PUT-BachelorLvl-Digital-Signature)** (archived) — university project (Jupyter Notebook)
+- **[PUT-MasterLvl-Repos-Archive](https://github.com/kooogi/PUT-MasterLvl-Repos-Archive)** — Master’s-level university repo archive
+- **[PUT-BachelorLvl-Digital-Signature](https://github.com/kooogi/PUT-BachelorLvl-Digital-Signature)** — Bachelor’s-level project
+- **[VWP-Projects](https://github.com/kooogi/VWP-Projects)** — projects for Volkswagen Poznań
 
 </details>
 
@@ -73,21 +72,3 @@
 - **Poznań University of Technology** — Software Engineering (M.Sc.), 2024–2025
 - **Polish**: native
 - **English**: C1
-
-<details>
-  <summary><b>GitHub stats</b> (optional)</summary>
-
-<!--
-Note: GitHub README stat cards are rendered via 3rd-party services and can occasionally fail due to rate limits.
-This is intentionally hidden by default to keep the README clean and reliable.
--->
-
-<p align="left">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=kooogi&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=21600"
-    alt="GitHub stats"
-  />
-</p>
-
-</details>
