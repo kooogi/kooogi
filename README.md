@@ -18,9 +18,6 @@
     <a href="https://time4run-dev.com.pl/">
       <img alt="Time4Run" src="https://img.shields.io/badge/Time4Run-time4run--dev.com.pl-111827?logo=vercel&logoColor=white" />
     </a>
-    <a href="mailto:bartosz.chwilkowski00@gmail.com">
-      <img alt="Email" src="https://img.shields.io/badge/Email-bartosz.chwilkowski00%40gmail.com-64748B?logo=gmail&logoColor=white" />
-    </a>
   </p>
 
   <p>
