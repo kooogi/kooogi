@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Bartek (Bartosz Chwiłkowski)</h1>
   <p>
-    <b>Project Manager</b> combining a solid Software Engineering background (MSc) with client-facing expertise.
+    <b>Junior Project Manager & IT Professional</b> with a solid Software Engineering background (MSc).
     I specialize in bridging the gap between business stakeholders and development teams by translating complex needs into actionable technical specifications.
   </p>
   <p>
@@ -99,4 +99,4 @@
 ## Languages
 
 - **Polish**: native
-- **English**: B2
+- **English**: C1
