@@ -1,11 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Bartek (Bartosz Chwiłkowski)</h1>
   <p>
-    <b>Junior Project Manager & IT Professional</b> with a solid Software Engineering background (MSc).
-    I specialize in bridging the gap between business stakeholders and development teams by translating complex needs into actionable technical specifications.
+    <b>Junior Project Manager & IT Professional</b> backed by a solid Software Engineering background (MSc). I excel at bridging the gap between business stakeholders and development teams by translating complex needs into actionable technical specifications. 
   </p>
   <p>
-    Proven track record in coordinating full-cycle web product delivery (Agile/Scrum) and leveraging <b>AI-assisted workflows</b> to optimize documentation and efficiency.
+    Experienced in coordinating full-cycle web product delivery (Agile/Scrum) and leveraging AI-assisted workflows to optimize documentation and efficiency.
   </p>
 
   <p>
