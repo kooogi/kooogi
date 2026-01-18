@@ -1,19 +1,22 @@
 <div align="center">
-  <h1>Hi, I’m Bartek (Bartosz Chwiłkowski)</h1>
+  <h1>Hi, I'm Bartek (Bartosz Chwiłkowski)</h1>
   <p>
-    Software engineer focused on <b>production-grade data + web</b>:
-    recommender systems, data extraction, and modern full-stack delivery (AI-assisted / prompt engineering).
+    <b>Project Manager</b> combining a solid Software Engineering background (MSc) with client-facing expertise.
+    I specialize in bridging the gap between business stakeholders and development teams by translating complex needs into actionable technical specifications.
+  </p>
+  <p>
+    Proven track record in coordinating full-cycle web product delivery (Agile/Scrum) and leveraging <b>AI-assisted workflows</b> to optimize documentation and efficiency.
   </p>
 
   <p>
     <a href="https://linkedin.com/in/bartoszchwilkowski">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bartoszchwilkowski-0A66C2?logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://time4run.com.pl/">
-      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-time4run.com.pl-111827?logo=vercel&logoColor=white" />
+    <a href="https://kooogi.github.io/kogispace">
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-kogispace-111827?logo=github&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/kogi.space/">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-kogi.space-E4405F?logo=instagram&logoColor=white" />
+    <a href="https://time4run-dev.com.pl/">
+      <img alt="Time4Run" src="https://img.shields.io/badge/Time4Run-time4run--dev.com.pl-111827?logo=vercel&logoColor=white" />
     </a>
     <a href="mailto:bartosz.chwilkowski00@gmail.com">
       <img alt="Email" src="https://img.shields.io/badge/Email-bartosz.chwilkowski00%40gmail.com-64748B?logo=gmail&logoColor=white" />
@@ -21,54 +24,82 @@
   </p>
 
   <p>
+    <img alt="Agile" src="https://img.shields.io/badge/Agile-Scrum-009639?logo=scrum&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-    <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" />
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
     <img alt="Vue" src="https://img.shields.io/badge/Vue-3-42B883?logo=vue.js&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/PHP-8.3-777BB4?logo=php&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   </p>
 </div>
 
-## Showcase: Time4Run (Vue + PHP, built from scratch)
+## Current Role
 
-**Time4Run** is an end-to-end platform for **race event management and athlete results** (SPA + REST API). It’s my best “full-stack proof” project: UX-first UI, security-focused API, and production-ready architecture.
+**Junior Implementation Consultant** at **Comarch** (Nov 2025 – Present)
 
-- **Live**: [time4run-dev.com.pl](https://time4run-dev.com.pl/) → soon [time4run.com.pl](https://time4run.com.pl/)
-- **Frontend**: Vue 3 + TypeScript + Pinia + Router + Tailwind (Vite)
-- **Backend**: PHP 8.3 (custom MVC), PDO/MySQL, JWT (HTTP-only cookies), CSRF, rate limiting, CSP
-- **Core features**: events with multiple distances, results import (CSV/Excel/PDF), search & filters, admin panel, calendar view
-- **Build philosophy**: built from scratch (clean code, not WordPress), with an AI-assisted workflow (prompt-engineering)
+- Working on BSS requirements for telecommunications operator projects, focusing on the BSS Product Catalog
+- Analyzing business and system requirements, supporting Change Request (CR) implementation
+- Reporting and tracking bugs, coordinating with development and testing teams
 
-## What I bring (fast scan)
+## Featured Projects
 
-- **Commercial engineering (Comarch)**: teamwork, delivery ownership, maintainability, clear communication
-- **Full-stack delivery**: shipping SPAs + APIs with attention to UX, SEO/accessibility, and practical security
-- **Data & ML**: recommender systems, experiment tracking (MLflow), Python tooling, SQL for analytics and decision support
-- **Extraction pipelines**: scraping + validation + cleaning, with an emphasis on reliability and reproducibility
-
-## Selected work
-
-| Project            | What it shows                               | Tech                          | Links                                                                     |
-| ------------------ | ------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------- |
-| **Time4Run**       | Full-stack product, security & UX           | Vue, TS, Tailwind, PHP, MySQL | [Live](https://time4run-dev.com.pl/) · [Domain](https://time4run.com.pl/) |
-| **qpera-thesis**   | Recsys research (explainability/robustness) | Python, MLflow, Jupyter       | [Repo](https://github.com/PUT-RecSys-Research/qpera-thesis)               |
-| **WebScraper-W2A** | Dockerized scraping & data collection       | Python, Flask, Scrapy         | [Repo](https://github.com/Web2AI/WebScraper-W2A)                          |
+| Project | Role | Tech | Description | Links |
+| ------- | ---- | ---- | ----------- | ----- |
+| **Time4Run** | Product Owner & Lead Developer | PHP, Vue.js, REST API, MySQL | Comprehensive platform for organizing running events with SPA, REST API, and Admin Panel | [Live](https://time4run-dev.com.pl/) |
+| **Web2AI** | Project Manager & Scrum Master | Python, Flask, Docker | Modular data acquisition system with recursive crawling and context-based analysis | [Repo](https://github.com/Web2AI/WebScraper-W2A) |
 
 <details>
-  <summary><b>More repos</b></summary>
-  
-**Archived / university**
+  <summary><b>Additional Projects</b></summary>
 
-- **[PUT-MasterLvl-Repos-Archive](https://github.com/kooogi/PUT-MasterLvl-Repos-Archive)** — Master’s-level university repo archive
-- **[PUT-BachelorLvl-Digital-Signature](https://github.com/kooogi/PUT-BachelorLvl-Digital-Signature)** — Bachelor’s-level project
-- **[VWP-Projects](https://github.com/kooogi/VWP-Projects)** — projects for Volkswagen Poznań
+- **[Simple Booking App](https://github.com/kooogi/simple-booking-app)**
+- **[Stolmeb Website](https://github.com/kooogi/stolmeb)**
+- **[Projects completed during Project & Summer Intern at VWP](https://github.com/kooogi/VWP-Projects)**
 
 </details>
 
-## Education & languages
+## Core Competencies
 
-- **Poznań University of Technology** — Software Engineering (M.Sc.), 2024–2025
+### Project Management & Analysis
+- **Agile & Scrum Delivery**: Backlog ownership, Sprint planning, Refinement, Reviews
+- **Requirements Engineering**: Translating business needs into User Stories, Functional/Non-functional requirements, & Acceptance Criteria
+- **Change & Quality Management**: Handling Change Requests (CRs), prioritizing bugs, coordinating UAT processes
+- **Product Strategy**: MVP definition, Scope control, Roadmap planning, Risk identification
+- **AI-Enhanced Productivity**: Using LLMs for rapid documentation drafting, requirements structuring, and data analysis
+
+### Technical Understanding (Web & IT)
+- **Web Architecture**: Deep understanding of SPA life-cycle, RESTful APIs, and Client-Server communication
+- **System Integration & Data**: API specifications (Swagger), JSON structures, data processing pipelines
+- **Enterprise & Automation**: System migration strategies, process automation logic, complex product configuration
+- **Compliance & Security**: Web Security (JWT, OWASP), regulatory standards (EU AI Act, GDPR basics)
+- **Dev Collaboration**: Validating technical feasibility and bridging business stakeholders and engineering teams
+
+## Additional Experience
+
+**Project & Summer Intern** at **Volkswagen** – Automation Technology Department (Jul 2023 – Sep 2025)
+
+- Implemented Cognex vision systems for component recognition
+- Automated migration of visualization projects to TIA Portal (80% workload reduction via Python scripting)
+- Created and maintained network equipment inventory and topology documentation
+
+## Education
+
+**Poznań University of Technology**
+- **MSc in Software Engineering** (Feb 2024 – Sep 2025) — GPA: 4.84 / 5.00
+  - **Master's Thesis**: [Quality of Personalization, Explainability and Robustness of Recommendation Algorithms](https://github.com/PUT-RecSys-Research/qpera-thesis)
+  - Comprehensive evaluation framework using Python and MLflow to benchmark recommendation algorithms
+- **BSc in Information and Communication Technologies** (Oct 2020 – Feb 2024) — GPA: 4.08 / 5.00
+  - **Eng. Project**: Personalized Clothing Recommendation System Based on User Preferences and Weather Conditions
+  - Web-based system integrating meteorological APIs for dynamic clothing suggestions
+
+<details>
+  <summary><b>Additional Academic Repositories</b></summary>
+  
+- **[Master's Repos](https://github.com/kooogi/PUT-MasterLvl-Repos-Archive)**
+- **[Digital Signature](https://github.com/kooogi/PUT-BachelorLvl-Digital-Signature)**
+</details>
+
+## Languages
+
 - **Polish**: native
-- **English**: C1
+- **English**: B2
