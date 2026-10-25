@@ -1,101 +1,107 @@
 <div align="center">
   <h1>Hi, I'm Bartek (Bartosz Chwiłkowski)</h1>
+  <p><strong>Implementation Consultant | Project Management | Software Engineering MSc</strong></p>
   <p>
-    <b>Junior Project Manager & IT Professional</b> backed by a solid Software Engineering background (MSc). I excel at bridging the gap between business stakeholders and development teams by translating complex needs into actionable technical specifications. 
+    I’m an IT professional with a background in software engineering and hands-on experience in telecommunications BSS, requirements analysis, and IT project coordination. I enjoy translating business needs into actionable tasks and helping technical teams stay aligned on scope, priorities, and progress.
   </p>
   <p>
-    Experienced in coordinating full-cycle web product delivery (Agile/Scrum) and leveraging AI-assisted workflows to optimize documentation and efficiency.
+    I currently work as a Junior Implementation Consultant at Comarch. Alongside my professional role, I have gained project management experience through volunteer and academic IT projects, focusing on backlog management, team coordination, Agile practices, and delivery tracking.
   </p>
-
   <p>
     <a href="https://linkedin.com/in/bartoszchwilkowski">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bartoszchwilkowski-0A66C2?logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://kooogi.github.io/kogispace">
-      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-kogispace-111827?logo=github&logoColor=white" />
-    </a>
     <a href="https://time4run-dev.com.pl/">
-      <img alt="Time4Run" src="https://img.shields.io/badge/Time4Run-time4run--dev.com.pl-111827?logo=vercel&logoColor=white" />
+      <img alt="Time4Run" src="https://img.shields.io/badge/Time4Run-live_website-111827?logo=googlechrome&logoColor=white" />
     </a>
-  </p>
-
-  <p>
-    <img alt="Agile" src="https://img.shields.io/badge/Agile-Scrum-009639?logo=scrum&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-    <img alt="Vue" src="https://img.shields.io/badge/Vue-3-42B883?logo=vue.js&logoColor=white" />
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-8.3-777BB4?logo=php&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   </p>
 </div>
 
 ## Current Role
 
-**Junior Implementation Consultant** at **Comarch** (Nov 2025 – Present)
+**Junior Implementation Consultant | Comarch Communication** *(Nov 2025 – Present)*
 
-- Working on BSS requirements for telecommunications operator projects, focusing on the BSS Product Catalog
-- Analyzing business and system requirements, supporting Change Request (CR) implementation
-- Reporting and tracking bugs, coordinating with development and testing teams
+- Analyze business and system requirements for telecommunications BSS solutions, with a focus on the Product Catalog.
+- Support the implementation of customer Change Requests (CRs), including product configuration changes and dependency analysis.
+- Investigate existing product configurations and system dependencies to assess the impact of requested changes.
+- Coordinate defect reporting and follow-up with development and testing teams to support issue resolution.
 
-## Featured Projects
+## Project Management Experience
 
-| Project | Role | Tech | Description | Links |
-| ------- | ---- | ---- | ----------- | ----- |
-| **Time4Run** | Product Owner & Lead Developer | PHP, Vue.js, REST API, MySQL | Comprehensive platform for organizing running events with SPA, REST API, and Admin Panel | [Live](https://time4run-dev.com.pl/) |
-| **Web2AI** | Project Manager & Scrum Master | Python, Flask, Docker | Modular data acquisition system with recursive crawling and context-based analysis | [Repo](https://github.com/Web2AI/WebScraper-W2A) |
+### Volunteer Project Manager — Website Development | Fundacja Kompetencji Cyfrowych
 
-<details>
-  <summary><b>Additional Projects</b></summary>
+*Feb 2026 – Aug 2026*
 
-- **[Simple Booking App](https://github.com/kooogi/simple-booking-app)**
-- **[Stolmeb Website](https://github.com/kooogi/stolmeb)**
-- **[Projects completed during Project & Summer Intern at VWP](https://github.com/kooogi/VWP-Projects)**
+- Managed the project backlog, prioritized tasks, and coordinated day-to-day activities within a 6–10-person project team.
+- Translated project requirements into actionable tasks and monitored progress against the agreed scope and timeline.
+- Tracked team workload and implementation progress, identifying resource constraints and escalating delivery risks.
+- Worked alongside a fellow Project Manager who led client communication, aligning team activities with project requirements.
+- Coordinated project activities from requirements gathering and planning through website design and the initial implementation phase.
 
-</details>
+### Project Manager & Scrum Master — Web2AI | Academic Project
+
+*Sep 2024 – Feb 2025 · Python, Flask, Docker*
+
+- Coordinated project work from requirements gathering and solution design through MVP implementation.
+- Translated stakeholder needs into a prioritized product backlog and supported scope management.
+- Facilitated Scrum ceremonies, coordinated team activities, and monitored progress against project objectives and acceptance criteria.
+
+[View Web2AI repository](https://github.com/Web2AI/WebScraper-W2A)
+
+## Selected Product & Technical Projects
+
+| Project | Role | Technologies | Overview |
+| --- | --- | --- | --- |
+| **Time4Run** | Product Owner & Lead Developer | PHP, Vue.js, REST API, MySQL | Sports event management platform with a public SPA, REST API, and admin panel. [Live website](https://time4run-dev.com.pl/) |
+| **Master’s Thesis** | Research & implementation | Python, MLflow | Evaluation of recommendation algorithms across personalization, explainability, and robustness. [Thesis repository](https://github.com/PUT-RecSys-Research/qpera-thesis) |
+| **Personalized Clothing Recommendation System** | Engineering project | PHP, JavaScript, Weather APIs | Web-based recommendation system using user preferences and weather data to tailor clothing suggestions. |
+
+## Professional Experience — Volkswagen
+
+**Project Intern & Summer Intern | Automation Technology Department**
+
+*Summer Intern: Jul–Aug 2023 · Project Intern: Oct 2023 – Sep 2025*
+
+- Implemented Cognex vision systems for component recognition and inspection.
+- Automated the migration of visualization projects to a new version of TIA Portal using Python scripts, reducing manual workload by 80%.
+- Created and maintained network equipment inventories and network topology documentation, improving asset traceability and visibility across production sites.
+- [Selected projects and repositories](https://github.com/kooogi/VWP-Projects)
 
 ## Core Competencies
 
 ### Project Management & Analysis
-- **Agile & Scrum Delivery**: Backlog ownership, Sprint planning, Refinement, Reviews
-- **Requirements Engineering**: Translating business needs into User Stories, Functional/Non-functional requirements, & Acceptance Criteria
-- **Change & Quality Management**: Handling Change Requests (CRs), prioritizing bugs, coordinating UAT processes
-- **Product Strategy**: MVP definition, Scope control, Roadmap planning, Risk identification
-- **AI-Enhanced Productivity**: Using LLMs for rapid documentation drafting, requirements structuring, and data analysis
+- **IT Project Coordination:** Backlog management, task prioritization, progress tracking, and team coordination
+- **Requirements Analysis:** Business and system requirements, scope definition, MVP planning, and actionable tasks
+- **Agile & Scrum:** Sprint planning, reviews, retrospectives, and iterative delivery
+- **Change & Issue Management:** Change Request handling, bug tracking, and coordination with development and testing teams
+- **Delivery & Risk Tracking:** Monitoring project progress, identifying resource constraints, and escalating delivery risks
 
-### Technical Understanding (Web & IT)
-- **Web Architecture**: Deep understanding of SPA life-cycle, RESTful APIs, and Client-Server communication
-- **System Integration & Data**: API specifications (Swagger), JSON structures, data processing pipelines
-- **Enterprise & Automation**: System migration strategies, process automation logic, complex product configuration
-- **Compliance & Security**: Web Security (JWT, OWASP), regulatory standards (EU AI Act, GDPR basics)
-- **Dev Collaboration**: Validating technical feasibility and bridging business stakeholders and engineering teams
-
-## Additional Experience
-
-**Project & Summer Intern** at **Volkswagen** – Automation Technology Department (Jul 2023 – Sep 2025)
-
-- Implemented Cognex vision systems for component recognition
-- Automated migration of visualization projects to TIA Portal (80% workload reduction via Python scripting)
-- Created and maintained network equipment inventory and topology documentation
+### Telecommunications & Technical Foundations
+- **Telecom BSS:** Product Catalog, product configuration, and product dependencies
+- **System Analysis:** Understanding system configurations, dependencies, and the impact of requested changes
+- **Programming & Data:** Python, SQL, and PHP
+- **Technical Collaboration:** Working with development and testing teams to clarify requirements and investigate issues
 
 ## Education
 
 **Poznań University of Technology**
-- **MSc in Software Engineering** (Feb 2024 – Sep 2025) — GPA: 4.84 / 5.00
-  - **Master's Thesis**: [Quality of Personalization, Explainability and Robustness of Recommendation Algorithms](https://github.com/PUT-RecSys-Research/qpera-thesis)
-  - Comprehensive evaluation framework using Python and MLflow to benchmark recommendation algorithms
-- **BSc in Information and Communication Technologies** (Oct 2020 – Feb 2024) — GPA: 4.08 / 5.00
-  - **Eng. Project**: Personalized Clothing Recommendation System Based on User Preferences and Weather Conditions
-  - Web-based system integrating meteorological APIs for dynamic clothing suggestions
+
+- **MSc in Software Engineering** *(Feb 2024 – Sep 2025)* · **CGPA: 4.84/5.00**
+  - Master’s thesis: [Quality of Personalization, Explainability and Robustness of Recommendation Algorithms](https://github.com/PUT-RecSys-Research/qpera-thesis).
+  - Built an evaluation framework using Python and MLflow to benchmark recommendation algorithms.
+- **BSc in Information and Communication Technologies** *(Oct 2020 – Feb 2024)* · **CGPA: 4.08/5.00**
+  - Focused on telecommunications networks, radio communications, wireless data transmission, signal processing, programming, algorithms, and data structures.
+  - Engineering project: developed a personalized clothing recommendation system using PHP, JavaScript, and external weather APIs.
 
 <details>
-  <summary><b>Additional Academic Repositories</b></summary>
-  
-- **[Master's Repos](https://github.com/kooogi/PUT-MasterLvl-Repos-Archive)**
-- **[Digital Signature](https://github.com/kooogi/PUT-BachelorLvl-Digital-Signature)**
+  <summary><strong>Additional Projects & Repositories</strong></summary>
+
+  - [Simple Booking App](https://github.com/kooogi/simple-booking-app)
+  - [Stolmeb Website](https://github.com/kooogi/stolmeb)
+  - [Additional master’s repositories](https://github.com/kooogi/PUT-MasterLvl-Repos-Archive)
+  - [Bachelor’s Digital Signature project](https://github.com/kooogi/PUT-BachelorLvl-Digital-Signature)
 </details>
 
 ## Languages
 
-- **Polish**: native
-- **English**: C1
+- **Polish:** Native
+- **English:** C1
